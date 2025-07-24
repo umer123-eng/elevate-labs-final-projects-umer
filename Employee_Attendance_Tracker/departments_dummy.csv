@@ -1,0 +1,106 @@
+dept_id,dept_name
+1,Human Resources
+2,Engineering
+3,Sales
+4,Marketing
+5,Finance
+6, Human Resources
+7,Information Technology
+8, Finance
+9, Marketing
+10,Sales
+11,Research and Development
+12, Customer Service
+13,Operations
+14, Legal
+15,Administration
+16,Procurement
+17, Quality Assurance
+18,Business Intelligence
+19, Product Development
+20, Data Analytics
+21,Internal Audit
+22, Logistics
+23,. Security
+24,Facilities Management
+25,Training and Development
+26, IT Support
+27, Application Development
+28, Network Operations
+29, Technical Support
+30, Digital Marketing
+31,Corporate Strategy
+32,Risk Management
+33, Health and Safety
+34, Project Management
+35, Graphic Design
+36, Content Creation
+37,Public Relations
+38,Compliance
+39, Enterprise Architecture
+40, Mobile Development
+41, UX/UI Design
+42, Web Development
+43, Database Management
+44, Cybersecurity
+45, Product Management
+46,Warehouse Operations
+47,Customer Success
+48,Inside Sales
+49,Field Services
+50,HR Analytics
+51, Payroll
+52,Taxation
+53,Event Management
+54,Merchandising
+55, Vendor Management
+56, Technical Writing
+57, Legal Compliance
+58,Security Operations
+59,Infrastructure
+60, Cloud Services
+61,ront Desk
+62,Energy Management
+63, Social Media
+64, Employee Relations
+65, Budgeting
+66, Strategic Planning
+67, Onboarding
+68, Outsourcing
+69,Client Relations
+70,Help Desk
+71, Equipment Maintenance
+72, Printing Services
+73,Alumni Relations
+74,Sustainability
+75, Customer Retention
+76, Language Services
+77,Machine Learning
+78, Artificial Intelligence
+79,DevOps
+80,Robotics
+81, Technical Training
+82,Asset Management
+83, Capital Planning
+84, eCommerce
+85,Innovation
+86, Data Engineering
+87,Investment Management
+88,Portfolio Management
+89, Biometric Security
+90, Audio-Visual
+91,Business Continuity
+92,Fraud Detection
+93, CRM Operations
+94, Brand Management
+95,User Experience
+96,Remote Support
+97,Knowledge Management
+98,Systems Integration
+99,Procurement Analytics
+100,Lead Generation
+101, Financial Reporting
+102, Compliance Auditing
+103, Change Management
+104,Document Control
+105, Partner Support

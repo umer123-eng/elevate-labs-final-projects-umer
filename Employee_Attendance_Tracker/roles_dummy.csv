@@ -1,0 +1,106 @@
+role_id,role_title,salary
+1,HR Executive,40000
+2,Software Engineer,60000
+3,Sales Associate,35000
+4,Marketing Manager,50000
+5,Accountant,45000
+6,Software Developer  ,45000
+7, Data Analyst  ,45000
+8, HR Manager  ,45000
+9, Marketing Executive  ,45000
+10, Sales Representative  ,45000
+11, IT Support Technician  ,45000
+12, Finance Manager  ,45000
+13, Front Desk Officer  ,45000
+14, Customer Care Executive  ,45000
+15, Business Analyst  ,45000
+16, Network Engineer  ,45000
+17, Web Developer  ,45000
+18, Mobile App Developer  ,45000
+19, Backend Developer  ,45000
+20, Database Administrator  ,45000
+21, Security Analyst  ,45000
+22, Product Manager  ,45000
+23, DevOps Engineer  ,45000
+24, Content Writer  ,45000
+25, Graphic Designer  ,45000
+26, SEO Specialist  ,45000
+27, Legal Advisor  ,45000
+28, Financial Analyst  ,45000
+29, Quality Assurance Engineer  ,45000
+30, Scrum Master  ,45000
+31, UX/UI Designer  ,45000
+32, Project Coordinator  ,45000
+33, Technical Writer  ,45000
+34, Procurement Officer  ,45000
+35, Operations Manager  ,45000
+36, Payroll Executive  ,45000
+37, Administrative Assistant  ,45000
+38, Technical Lead  ,45000
+39, Cloud Engineer  ,45000
+40, Systems Architect  ,45000
+41, Inventory Manager  ,45000
+42, Account Executive  ,45000
+43, HR Executive  ,45000
+44, Business Development Officer  ,45000
+45, Compliance Officer  ,45000
+46, Risk Manager  ,45000
+47, Logistics Coordinator  ,45000
+48, Training Specialist  ,45000
+49, IT Manager  ,45000
+50, Performance Analyst  ,45000
+51, Data Scientist  ,45000
+52, Research Associate  ,45000
+53, Legal Intern  ,45000
+54, Assistant Manager  ,45000
+55, Senior Developer  ,45000
+56,Lead Developer  ,45000
+57, Machine Learning Engineer  ,45000
+58, Artificial Intelligence Engineer  ,45000
+59, Robotics Engineer  ,45000
+60, Support Engineer  ,45000
+61, SAP Consultant  ,45000
+62, CRM Analyst  ,45000
+63, Email Marketing Specialist  ,45000
+64, Event Planner  ,45000
+65, PR Executive  ,45000
+66, Media Manager  ,45000
+67, Finance Executive  ,45000
+68, Office Clerk  ,45000
+69, Security Guard  ,45000
+70, Lab Technician  ,45000
+71, CCTV Operator  ,45000
+72, System Administrator  ,45000
+73, SharePoint Developer  ,45000
+74,Senior HR Manager  ,45000
+75, ETL Developer  ,45000
+76, Power BI Analyst  ,45000
+77, Tableau Developer  ,45000
+78, Git Admin  ,45000
+79, GitHub Manager  ,45000
+80, Chatbot Developer  ,45000
+81, Video Editor    ,45000
+82, Illustrator  ,45000
+83, Motion Graphics Artist  ,45000
+84, Intern  ,45000
+85, Assistant Developer  ,45000
+86, Office Boy  ,45000
+87, Pantry Staff  ,45000
+88, Librarian  ,45000
+89, Support Staff  ,45000
+90, Application Tester  ,45000
+91, Manual Tester  ,45000
+92, Automation Tester  ,45000
+93, Service Desk Agent  ,45000
+94, Tech Recruiter  ,45000
+95, Career Counselor  ,45000
+96, E-commerce Manager  ,45000
+97, Data Entry Operator  ,45000
+98, Backup Administrator  ,45000
+99, Release Manager  ,45000
+100, Game Developer  ,45000
+101, SAP HR Consultant  ,45000
+102, Email Designer  ,45000
+103, SEO Copywriter  ,45000
+104, Full Stack Developer  ,45000
+105, Junior Software Engineer,45000
